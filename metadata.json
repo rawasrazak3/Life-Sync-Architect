@@ -1,0 +1,6 @@
+{
+  "name": "Life-Sync Architect",
+  "description": "Unified personal ecosystem for medical tracking, task intelligence, grocery logistics, and budget tracking with AI briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
